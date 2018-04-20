@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-tomjwatson",
+  "version": "0.1.0",
+  "description": "Base eslint config for tomjwatson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f12/eslint-config-tomjwatson.git"
+  },
+  "keywords": [
+    "tomjwatson",
+    "eslint",
+    "config"
+  ],
+  "author": "Tom Watson <tom@tomjwatson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/f12/eslint-config-tomjwatson/issues"
+  },
+  "homepage": "https://github.com/f12/eslint-config-tomjwatson#readme"
+}
