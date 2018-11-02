@@ -33,7 +33,6 @@ module.exports = {
     'no-floating-decimal': 2,
     'no-labels': 2,
     'no-lone-blocks': 2,
-    'no-loop-func': 2,
     'no-multi-str': 2,
     'no-native-reassign': 2,
     'no-new': 2,
@@ -69,10 +68,12 @@ module.exports = {
     'brace-style': 2,
     'comma-spacing': 2,
     'comma-style': 2,
+    "curly": 2,
     'key-spacing': [2, {
       'beforeColon': false,
       'afterColon': true
     }],
+    'keyword-spacing': 2,
     'new-parens': 2,
     'no-array-constructor': 2,
     'no-lonely-if': 2,

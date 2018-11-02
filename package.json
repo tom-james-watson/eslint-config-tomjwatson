@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tomjwatson",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Base eslint config for tomjwatson",
   "main": "index.js",
   "scripts": {
