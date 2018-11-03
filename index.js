@@ -60,7 +60,6 @@ module.exports = {
     'no-label-var': 2,
     'no-shadow-restricted-names': 2,
     'no-undef-init': 2,
-    'no-use-before-define': 2,
     // Stylistic Issues
     'indent': [2, 2, {
       'SwitchCase': 1
